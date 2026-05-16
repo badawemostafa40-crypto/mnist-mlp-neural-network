@@ -176,11 +176,8 @@ Project Structure
 
 project/
 │
-├── data/
-├── results/
 ├── Neural Network Project.ipynb
 ├── README.md
-├── requirements.txt
 └── report.tex
 
 ⸻
